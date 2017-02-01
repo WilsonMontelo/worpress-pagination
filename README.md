@@ -1,2 +1,2 @@
-# worpress-pagination
+# WORDPRESS PAGINATION
 Worpress Pagination
